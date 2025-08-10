@@ -1,2 +1,2 @@
 # TSE
-Tough Space Exploration.
+The Tough Space Exploration project.
